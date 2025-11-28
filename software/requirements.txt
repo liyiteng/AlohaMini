@@ -1,0 +1,8 @@
+numpy
+opencv-python
+rerun-sdk
+sounddevice
+dashscope
+scipy
+ruff; extra == 'dev'
+
