@@ -1,0 +1,13 @@
+# Proposed by Robotheca for this repository. Every line is yours to
+# change: check it before merging.
+
+format_version: "1.0"
+name: AlohaMini2
+summary: A dual-arm mobile robot with a motorized lift, with print files, a parts list and assembly guides.
+category: home
+difficulty: advanced
+license:
+  hardware: Apache-2.0
+  software: Apache-2.0
+source:
+  repository: https://github.com/liyiteng/AlohaMini
